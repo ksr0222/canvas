@@ -94,3 +94,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+h1 {
+  text-align: left;
+}
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+.wrap canvas {
+  background: #fff;
+  border: #909090 1px solid;
+}
